@@ -1,6 +1,7 @@
 ### Sejam bem-vindos a minha página!👋
 
-### Olá, sou a Larissa Fossato, Desenvolvedora e futura Segurança da Informação.
+### Olá, sou a Larissa Fossato. Desenvolvedora e futura Segurança Cibernética.
+
 
 <!--
 **Lafossato/lafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 -->
 
