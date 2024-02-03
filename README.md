@@ -3,7 +3,8 @@
 ### Olá, sou a Larissa Fossato. Desenvolvedora e futura Segurança Cibernética.
 
 **📌  About me**
-- Sou graduada em Análise e Desenvolvimento de Sistemas pela São Judas, concluindo meu curso em 2023. Atualmente, estou dedicada ao aprimoramento dos meus conhecimentos na área de Segurança da Informação, também na Fiap. Possuo habilidades sólidas em Python e mantenho um compromisso contínuo com a aprendizagem de novas linguagens de programação. Meu objetivo é aprofundar constantemente meu conhecimento técnico, buscando desafios que promovam o crescimento profissional.
+
+   Sou graduada em Análise e Desenvolvimento de Sistemas pela São Judas, concluindo meu curso em 2023. Atualmente, estou dedicada ao aprimoramento dos meus conhecimentos na área de Segurança da Informação, também na Fiap. Possuo habilidades sólidas em Python e mantenho um compromisso contínuo com a aprendizagem de novas linguagens de programação. Meu objetivo é aprofundar constantemente meu conhecimento técnico, buscando desafios que promovam o crescimento profissional.
 
 **🎓 Background**
 - Tecnologo Análise e Desenvolvimento de Sistema (São Judas Tadeu);
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafossato&show_icons=true&theme=midnight-purple)
+
+**Linguagens:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,6 +36,6 @@ Here are some ideas to get you started:
 </div>
 
  ##
-
+**Links:**
    <div> 
    <a href="https://www.linkedin.com/in/larissa-fossato-8a2684200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
