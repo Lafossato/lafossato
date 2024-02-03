@@ -2,6 +2,12 @@
 
 ### Olá, sou a Larissa Fossato. Desenvolvedora e futura Segurança Cibernética.
 
+**📌  About me**
+- Sou graduada em Análise e Desenvolvimento de Sistemas pela São Judas, concluindo meu curso em 2023. Atualmente, estou dedicada ao aprimoramento dos meus conhecimentos na área de Segurança da Informação, também na Fiap. Possuo habilidades sólidas em Python e mantenho um compromisso contínuo com a aprendizagem de novas linguagens de programação. Meu objetivo é aprofundar constantemente meu conhecimento técnico, buscando desafios que promovam o crescimento profissional.
+
+**🎓 Background**
+- Tecnologo Análise e Desenvolvimento de Sistema (São Judas Tadeu);
+- Tecnologo Segurança Cibernética (Fiap) estudando.
 
 <!--
 **Lafossato/lafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
