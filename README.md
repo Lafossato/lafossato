@@ -8,7 +8,8 @@
 
 **🎓 Background**
 - Tecnologo Análise e Desenvolvimento de Sistema (São Judas Tadeu);
-- Tecnologo Segurança Cibernética (Fiap) estudando.
+- Tecnologo Segurança Cibernética (Fiap) estudando;
+- Escola da Nuvem estudando.
 
 <!--
 **Lafossato/lafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
