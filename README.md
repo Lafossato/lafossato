@@ -1,7 +1,5 @@
 ### Sejam bem-vindos a minha página!👋
 
-![Hey there, I'm Larissa. I'm a software DevOps, Developer and Security. Check out my work](https://github.com/Lafossato/lafossato/raw/master/header.gif)
-
 ### Olá, sou a Larissa Fossato. Desenvolvedora e futura Segurança Cibernética.
 
 **📌  About me**
