@@ -9,7 +9,8 @@
 **🎓 Background**
 - Tecnologo Análise e Desenvolvimento de Sistema (São Judas Tadeu) formada;
 - Tecnologo Segurança Cibernética (Fiap) formada;
-- Escola da Nuvem conquistada.
+- Escola da Nuvem conquistada;
+- Multcloud, DevOps e IA (The Cloud Bootcamp) cursando.
 
 <!--
 **Lafossato/lafossato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
