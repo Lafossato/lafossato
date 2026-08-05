@@ -1,121 +1,98 @@
-```md
-# Olá, seja bem-vindo(a) ao meu perfil! 👋
-
 <div align="center">
 
-## 💻 Larissa Fossato
+# 👩‍💻 Larissa Fossato
+
 ### Desenvolvedora | Segurança da Informação | Cloud & DevOps
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
+
 </div>
 
 ---
 
-## 💻 Sobre mim
+## 👋 Sobre mim
 
-Olá! Eu sou **Larissa Fossato**, desenvolvedora com foco em **Segurança da Informação, Cloud e DevOps**.
+Sou **Larissa Fossato**, formada em **Análise e Desenvolvimento de Sistemas** e **Defesa Cibernética**, com foco em:
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** pela Universidade São Judas (2023) e também concluí minha formação em **Defesa Cibernética pela FIAP**.
+🔐 Segurança da Informação  
+☁️ Cloud Computing  
+⚙️ DevOps  
+🤖 Automação e IA  
 
-Tenho interesse em criar soluções seguras, automatizar processos e explorar tecnologias que conectam **desenvolvimento, infraestrutura e segurança**.
+Tenho experiência com desenvolvimento, infraestrutura e práticas de segurança, buscando construir soluções mais eficientes, seguras e escaláveis.
 
-Atualmente, estou aprimorando meus conhecimentos em **Cloud Computing, DevOps, Inteligência Artificial e Cybersecurity**, buscando sempre evoluir tecnicamente e enfrentar novos desafios.
-
-🚀 Meu objetivo é atuar em ambientes onde eu possa contribuir com tecnologia, segurança e inovação, enquanto continuo crescendo profissionalmente.
-
----
-
-# 🎓 Formação e Cursos
-
-- 🎓 **Tecnólogo em Análise de Desenvolvimento de Sistemas** — Universidade São Judas (2023)
-- 🛡️ **Tecnólogo em Defesa Cibernética** — FIAP
-- ☁️ **AWS re/Start** — Escola da Nuvem
-- 🌎 **MultCloud, DevOps & IA** — The Cloud Bootcamp *(em andamento)*
-- 🔐 **Santander Bootcamp — Cibersegurança**
-- 🌐 **Cisco Networking Academy**
+Atualmente estou aprimorando meus conhecimentos em **AWS, Kubernetes, Docker, Linux e Cybersecurity**.
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-## Desenvolvimento
+<div align="center">
 
-- 🐍 Python
-- 🟨 JavaScript
-- ⚛️ React
-- 🅰️ Angular
-- 🚀 FastAPI
-- 🗄️ SQL / MySQL / PostgreSQL
+<img src="https://skillicons.dev/icons?i=python,js,react,angular,fastapi,aws,docker,kubernetes,linux,mysql,git,github" />
 
-## Cloud & DevOps
-
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Git / GitHub / GitLab CI
-- 🔄 CI/CD
-- 🐧 Linux
-
-## Segurança da Informação
-
-- 🔐 Segurança de Redes
-- 📊 Monitoramento e Logs
-- 🐉 Kali Linux
-- 🕵️ Burp Suite
-- 🚨 Snort
-- ⚔️ Metasploit
-- 🛡️ SOC / Cybersecurity
-
-## Dados e Automação
-
-- 📈 Power BI
-- 🤖 Python para automações
-- 🗃️ Banco de dados relacionais
+</div>
 
 ---
 
-# 📜 Certificações
+## 🎓 Formação
 
-🏅 **AWS Certified Cloud Practitioner**  
-🏅 **AWS Certified AI Practitioner**  
-🏅 **TryHackMe — Pre Security**  
-🏅 **TryHackMe — Intro to Cyber Security**  
-🏅 **SQL — Hashtag Treinamentos**  
-🏅 **Python — Alura**
+| Curso | Instituição |
+|---|---|
+| Análise e Desenvolvimento de Sistemas | Universidade São Judas |
+| Defesa Cibernética | FIAP |
+| AWS re/Start | Escola da Nuvem |
+| MultCloud, DevOps & IA | The Cloud Bootcamp |
 
 ---
 
-# 🚀 Projetos
+## 🏆 Certificações
 
-### 📌 Automação de Deploys, Monitoramento e Estabilidade de Aplicações
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 AWS Certified AI Practitioner
+- 🔐 TryHackMe — Pre Security
+- 🔐 TryHackMe — Intro to Cyber Security
+- 🐍 Python — Alura
+- 🗄️ SQL — Hashtag Treinamentos
 
-Projeto envolvendo práticas de **DevOps**, automação de processos, monitoramento e melhoria da disponibilidade de aplicações.
+---
 
-### 📌 Aplicações Web
+## 🚀 Projetos
 
-Desenvolvimento de projetos utilizando:
+### ⚙️ Automação de Deploys, Monitoramento e Estabilidade de Aplicações
 
-- HTML
-- CSS
-- JavaScript
+Projeto envolvendo:
+- CI/CD
+- Docker
+- Monitoramento
+- Automação de processos
+- Boas práticas DevOps
+
+### 🌐 Aplicações Web
+
+Desenvolvimento utilizando:
 - React
 - Angular
+- JavaScript
+- APIs REST
 
 ---
 
-# 📫 Vamos conectar?
+## 📊 GitHub Stats
 
-💼 LinkedIn: [Meu LinkedIn](seu-link-aqui)  
-📧 Email: seu-email-aqui  
-💻 GitHub: Você já está aqui 😊
+<div align="center">
+
+![Larissa GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafossato&show_icons=true&theme=dark)
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ Sempre aprendendo, explorando novas tecnologias e buscando transformar conhecimento em soluções.
+⭐ Sempre aprendendo, criando e explorando novas tecnologias.
 
 </div>
-```
 
 
 <!--
