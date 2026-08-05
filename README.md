@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafossato&show_icons=true&theme=midnight-purple)
 
 **Linguagens:**
@@ -135,3 +136,4 @@ Here are some ideas to get you started:
 **Links:**
    <div> 
    <a href="https://www.linkedin.com/in/larissa-fossato-8a2684200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+-->
