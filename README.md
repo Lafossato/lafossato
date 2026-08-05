@@ -4,7 +4,7 @@
 
 ### Desenvolvedora | Segurança da Informação | Cloud & DevOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/larissa-fossato-8a2684200/)
 
 </div>
 
